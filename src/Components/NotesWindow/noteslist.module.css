@@ -1,0 +1,22 @@
+.note{
+    display: flex;
+    width: 90%;
+    margin-top: 5%;
+    font-size: 1.3rem;
+    font-weight: 530;
+    white-space: pre-wrap;
+}
+.date_and_time{
+    width: 20%;
+    padding: 4px;
+}
+.content{
+    width: 80%;
+    white-space: pre-wrap;
+    
+}
+@media (max-width: 767px) {
+    .date_and_time {
+      width: 50%;
+    }
+  }
