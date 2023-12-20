@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Pocket--Notes/static/css/main.318b60b7.css",
+    "main.js": "/Pocket--Notes/static/js/main.a374331c.js",
+    "static/js/787.0a88745a.chunk.js": "/Pocket--Notes/static/js/787.0a88745a.chunk.js",
+    "static/media/default-preview.png": "/Pocket--Notes/static/media/default-preview.051c5dd6cf08bd17366f.png",
+    "static/media/lock.svg": "/Pocket--Notes/static/media/lock.abb268a9af8c1908c7596ccf17ab3935.svg",
+    "index.html": "/Pocket--Notes/index.html",
+    "static/media/text-area-button.svg": "/Pocket--Notes/static/media/text-area-button.251585d6da6f011d53223759da324c52.svg",
+    "main.318b60b7.css.map": "/Pocket--Notes/static/css/main.318b60b7.css.map",
+    "main.a374331c.js.map": "/Pocket--Notes/static/js/main.a374331c.js.map",
+    "787.0a88745a.chunk.js.map": "/Pocket--Notes/static/js/787.0a88745a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.318b60b7.css",
+    "static/js/main.a374331c.js"
+  ]
+}
